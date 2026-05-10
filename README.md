@@ -15,9 +15,9 @@ I am Offensive Security Enthusiast through CTFs, research, and automation ⚡
 
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtqbmh0Y3l3M2VvbXpsZ2dxdmMyMG5tbW1ncGs5MzRrYm54MTN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OjSuizHuWcPvBafccq/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   Focus Areas
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY3anBmNHdvaTNleWx1ZXhqMHFiODNmanZ4MWN0a241YzNvem5ubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P1DulXENBcGGzUhC0g/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
 </h2>
 
 - 🏴 CTF Player
@@ -62,10 +62,8 @@ I am Offensive Security Enthusiast through CTFs, research, and automation ⚡
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="metasploit" width="150" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra" width="50" />
-</p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://www.sleuthkit.org/picts/renzik_sm.jpg" alt="autopsy" width="50" />
-
 </p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🔗 Connect with Me
