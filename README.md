@@ -3,31 +3,36 @@
     <img src="https://komarev.com/ghpvc/?username=solayman556&label=Profile%20views&color=00FFFF&style=flat-square" alt="solayman556's profile views" />
   </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  About Me
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h2>
+My name is Solayman Hossain Shawon.
+I am Offensive Security Enthusiast through CTFs, research, and automation ⚡
 
-## 📌 About Me
-- I am Offensive Security Enthusiast through CTFs, research, and automation ⚡
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  Focus Areas
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
 
-
-## 🧠 My Focus Areas
 - 🏴 CTF Player
 - 🔐 Vulnerability Researcher
 - 🌐 Web Exploitation Enthusiast
 - ⚙️ Reverse Engineering Learner
 - 🚀 Automation & Security Tools
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/solayman556">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=solayman556&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="solayman556's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=solayman556&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="solayman556's GitHub Streak" width="49%" />
-</p>
-
-
-## 🛠️ Languages & Tools
+<h2 align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjdWVvbTg0cjF2cHZxNWJvMzV5d2N2cTBpNGJlaHBleDRxdDgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kL3ZvNKk4hyR1B8hVt/giphy.gif" width="32">
+ Languages & Tools
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjdWVvbTg0cjF2cHZxNWJvMzV5d2N2cTBpNGJlaHBleDRxdDgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kL3ZvNKk4hyR1B8hVt/giphy.gif" width="32">
+</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,14 +54,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
 
 </p>
-
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="metasploit" width="150" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra" width="50" />
+</p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://www.sleuthkit.org/picts/renzik_sm.jpg" alt="autopsy" width="50" />
 
 </p>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/solayman555/">
