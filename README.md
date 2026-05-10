@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <a href="https://komarev.com/ghpvc/?username=solayman556">
     <img src="https://komarev.com/ghpvc/?username=solayman556&label=Profile%20views&color=00FFFF&style=flat-square" alt="solayman556's profile views" />
   </a>
