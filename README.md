@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=FFFFFF:000000,100:a371f7&text=Md%20Solayman%20Hossain%20Shawon&fontSize=60&fontColor=0&animation=fadeIn&fontAlignY=40&desc=Offensive%20Security%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=solayman556">
     <img src="https://komarev.com/ghpvc/?username=solayman556&label=Profile%20views&color=00FFFF&style=flat-square" alt="solayman556's profile views" />
